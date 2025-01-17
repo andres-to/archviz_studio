@@ -100,7 +100,7 @@ nav a {
 /* name Section */
 .name {
     display: flex;
-    background: url('resources/1510ceaa-b07f-4bc8-95ea-d0c8ed9364a0_rw_1200.jpg');
+    background-image: url('resources/1510ceaa-b07f-4bc8-95ea-d0c8ed9364a0_rw_1200.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
